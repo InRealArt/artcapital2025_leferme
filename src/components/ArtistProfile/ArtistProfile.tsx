@@ -17,8 +17,8 @@ export default function ArtistProfile() {
         </div>
         <div className={styles.images}>
           <div className={styles.artistArtwork}>
-            <Image src="/img/artistProfile/c_senechal.jpg" 
-              alt="Œuvre emblématique de Catherine Sénéchal - Art contemporain"  
+            <Image src="/img/artistProfile/AdelaideLeferme.jpeg" 
+              alt="Œuvre emblématique d'Adélaïde Leferme"  
               width={400} height={4500} style={{ objectFit: 'cover' }} />
           </div>
           {/* <div className={styles.artistPhoto}>
