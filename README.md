@@ -1,2 +1,4 @@
 # artcapital2025_leferme
-Landing Page for Adélaide Leferme attending at ArtCapital 2025
+Landing Page for new artist Adélaide Leferme attending at ArtCapital 2025
+
+
