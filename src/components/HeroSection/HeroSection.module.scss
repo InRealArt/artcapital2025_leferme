@@ -46,7 +46,7 @@
 }
 
 .title {
-  flex: 0.7;
+  flex: 0.5;
   font-size: 1.3rem;
   text-align: center; // Centre le texte horizontalement
   display: flex; // Utilise flexbox pour le centrage vertical
@@ -59,7 +59,7 @@
   font-weight: 600;
   position: relative;
   height: 10rem;
-  background-color: rgba(0, 0, 53, 0.9); // fond noir semi-transparent
+  background-color: rgba(0, 0, 53, 0.8); // fond noir semi-transparent
   padding: 1rem;
   border-radius: 8px;
 }

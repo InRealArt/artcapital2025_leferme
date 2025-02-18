@@ -302,11 +302,15 @@
 
 @media (max-width: 438px) {
   .artistText11,
-  .artistText13,
-  .artistText14,
   .artistText21,
-  .artistText23,
   .artistText24 {
     font-size: 14px; // Réduisez cette valeur selon vos besoins
+  }
+
+  .artistText13,
+  .artistText14,
+  .artistText22,
+  .artistText23 {
+    font-size: 0.6rem;
   }
 }
